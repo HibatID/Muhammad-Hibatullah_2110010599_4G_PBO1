@@ -1,3 +1,5 @@
+package pbo;
+
 //class
 public class JusBuah {
     

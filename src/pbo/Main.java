@@ -1,3 +1,5 @@
+package pbo;
+
 
 import java.util.Scanner;
 

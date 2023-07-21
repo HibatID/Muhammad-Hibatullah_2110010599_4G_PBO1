@@ -1,3 +1,5 @@
+package pbo;
+
 //inheritence
 public class JusBuahDetail extends JusBuah{
 
