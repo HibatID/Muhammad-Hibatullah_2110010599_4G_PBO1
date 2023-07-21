@@ -7,6 +7,7 @@ public class JusBuah {
     private String nama;
     private int harga;
 
+    //constructor
     public JusBuah(String nama, int harga) {
         this.nama = nama;
         this.harga = harga;

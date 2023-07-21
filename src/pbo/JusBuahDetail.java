@@ -15,7 +15,7 @@ public class JusBuahDetail extends JusBuah{
     }
     
    
-    //Polymorphs (override)
+    //Polymorphs (overriding)
     @Override
     public String tampilData(int toping){
         this.toping = toping;
